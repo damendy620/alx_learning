@@ -1,0 +1,3 @@
+-les options possible de ls 
+-la commande cat sert à quoi 
+-creer un fichier à l'aide de la commande cat

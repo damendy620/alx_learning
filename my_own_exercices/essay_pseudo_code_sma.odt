@@ -1,0 +1,16 @@
+create the save invoice area
+
+1/create a boolean inside request delivery table is_saved
+    //set the boolean to false
+2/create a route that get all the delivery invoice with is_saved true
+
+3/create a save button inside invoice of delivery request file logo
+ //enable the button if invoice is not saved 
+ //click the button will set the boolean to true
+
+ //exo 2
+ calculate the sum of squares of given input of numbers
+ //first declare the given numbers
+ //declare the sum of those square numbers as 0
+ //looop for each value of the given numbers
+ //set sum = sum + num*num

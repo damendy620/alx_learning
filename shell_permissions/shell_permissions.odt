@@ -1,0 +1,9 @@
+we need to undestand this commande
+chmod: modify file access rights
+su : temporarily become the superuser
+sudo: temporarily become the superuser but special for running a program
+chown: change file ownership
+chgrp: change a file's group ownership.
+How to create a User connect as root run useradd "name of the user" (for example, useradd roman)
+How to create a group groupadd [OPTIONS] GROUPNAME
+
